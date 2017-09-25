@@ -7,7 +7,7 @@ The goal is to build a comprehensive libray of pattern over time.
 All users of OSLC are invited to propose and contribute additional patterns
 ...
 
-Frist ideas and things todo before we launch the WG:
+First ideas and things to do before we launch the WG:
 - decide about the name (lifecycle-integration-patterns or lifecycle-collaboration-patterns other?)
 - do we need a process/workflow for the patterns (proposed, draft, final)
 - adopt the template for pattern description
